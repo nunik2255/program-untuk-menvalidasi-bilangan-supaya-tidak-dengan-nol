@@ -1,0 +1,1 @@
+# program-untuk-menvalidasi-bilangan-supaya-tidak-dengan-nol
